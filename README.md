@@ -8,8 +8,11 @@ Many Farmer's are ending up in losses because they are unable to find a better p
 
 ### Technologies Used
 Frontend : React JS
+
 Backend : Node JS, Express JS and Mongo DB
+
 Testing Tools : JEST
+
 Code Versioning Systems: Git and GitHub
 
 ### Sprint 1: Learnings
