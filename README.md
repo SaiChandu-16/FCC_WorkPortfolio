@@ -47,3 +47,12 @@ Code Versioning Systems: Git and GitHub
 3. Fixed some of the bugs which are present in the Sign-in/Sign-up/Sign-out pages
 4. Fixed bugs in the products display page for the customer
 5. Integrated the products display page and Sign-in/Sign-up/Sign-out pages with the Home page
+
+### Sprint 5: Learnings
+1. Started testing the application using JEST
+2. Wrote test cases for the Signin and Sign Up page which are used by Farmer and Customer
+3. Wrote around 11 test cases for both Signin and Sign up process
+4. Made some changes in the User Inteface
+5. Pushed the files that were created until now into the github 
+6. pull request was placed to review the files and the code
+7. Decided & started integrating the code with the other team
