@@ -56,3 +56,12 @@ Code Versioning Systems: Git and GitHub
 5. Pushed the files that were created until now into the github 
 6. pull request was placed to review the files and the code
 7. Decided & started integrating the code with the other team
+
+### Sprint 6: Learnings
+1. Started integrating the application.
+2. Some errors occured while integrating the application
+3. We were unable to update or add a image of the respective product
+4. Later this was solved and the error occured due to a spelling mistake
+5. After that, there was an error related to the sign out 
+6. Then revised all the User stories completed until now
+7. Decided to proceed for implementing new User stories like Cart etc
