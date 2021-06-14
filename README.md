@@ -64,4 +64,4 @@ Code Versioning Systems: Git and GitHub
 4. Later this was solved and the error occured due to a spelling mistake
 5. After that, there was an error related to the sign out 
 6. Then revised all the User stories completed until now
-7. Decided to proceed for implementing new User stories like Cart etc
+7. Decided to proceed for implementing new User stories like Add to cart etc
