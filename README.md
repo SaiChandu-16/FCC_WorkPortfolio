@@ -65,3 +65,12 @@ Code Versioning Systems: Git and GitHub
 5. After that, there was an error related to the sign out 
 6. Then revised all the User stories completed until now
 7. Decided to proceed for implementing new User stories like Add to cart etc
+
+### Sprint 7: Learnings
+1. Resolved issue related to the sign out
+2. Integrating the application with no bugs
+3. Developed the User Interface with major changes 
+4. Changed the structure of the website and implemented new designs 
+5. Changed the card structure that displays various products in a single page
+6. Integrated the Add to cart feature to the application
+7. Resolved bugs that came during the integration of the add to cart feature
