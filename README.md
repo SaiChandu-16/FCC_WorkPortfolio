@@ -74,3 +74,10 @@ Code Versioning Systems: Git and GitHub
 5. Changed the card structure that displays various products in a single page
 6. Integrated the Add to cart feature to the application
 7. Resolved bugs that came during the integration of the add to cart feature
+
+### Sprint 8: Learnings
+1. Made certain changes in User interface 
+2. Integrated all the files and features
+3. Identified and resolve minor bugs like spelling mistakes and alignments
+4. Prepared a presentation for the application demo
+5. Prepared for the Demo of the application
